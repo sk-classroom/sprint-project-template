@@ -1,6 +1,6 @@
 # Project template
 
-A simple template for research project repos. Also check out [data science and
+A simple template for sprint projects. Also check out [data science and
 reproducible science cookie
 cutters](https://github.com/audreyr/cookiecutter#data-science).
 
